@@ -1,3 +1,5 @@
+Migrated to https://github.com/docker-sstc/mono
+
 # docker-notify
 
 [![Build workflow](https://github.com/docker-sstc/docker-notify/actions/workflows/main.yml/badge.svg)](https://github.com/docker-sstc/docker-notify/actions)
